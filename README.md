@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 💬 Ask me about **Laravel,Web Appilication**
+- 💬 Ask me about **Laravel,Web Development**
 
 - 📫 How to reach me **mkkumarnaveenkumar@gmail.com**
 
